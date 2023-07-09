@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+
+![weather1](https://github.com/pratikpatrimath/Weatherapp/assets/75774769/80bc3b3b-4b83-442e-ae45-7e3533f5e0a3)
+
+
+![weather2](https://github.com/pratikpatrimath/Weatherapp/assets/75774769/fc0ec2d3-3f34-4b69-bf61-fd6a298e5874)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
